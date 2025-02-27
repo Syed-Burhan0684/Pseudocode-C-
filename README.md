@@ -11,7 +11,7 @@ Python 3.11+
 PyTorch, Streamlit, torchtext, numpy
 **Installation**
 **Clone the repo:**
-git clone https://github.com/your-username/code-translator.git
+git clone (https://github.com/Syed-Burhan0684/Pseudocode-C-.git)
 cd code-translator
 **Set up a virtual environment:**
 python -m venv venv
